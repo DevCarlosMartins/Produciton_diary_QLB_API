@@ -1,0 +1,10 @@
+#-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+#
+/  Selenium: Para automação do navegador.                                                                          /
+\  pip install selenium                                                                                            \
+/                                                                                                                  /
+\  Pandas: Para manipulação de dados e exportação para Excel.                                                      \
+/  pip install pandas                                                                                              /
+\                                                                                                                  \
+/  OpenPyXL: Para permitir a exportação para arquivos Excel (o Pandas usa esta biblioteca para escrever em .xlsx). /
+\  pip install openpyxl                                                                                            \
+#-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+#
